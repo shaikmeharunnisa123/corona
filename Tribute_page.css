@@ -1,0 +1,55 @@
+.Page-background{
+    background-color:rgb(0, 255, 136);
+    
+}
+
+
+.Main-heading{
+    font-family:'Franklin Gothic Medium';
+    font-weight:bold;
+    font-size:50px;
+    text-shadow:4px 4px 5px white;
+
+}
+.KalamImage{
+    background-color:rgb(0, 255, 136);
+    height:350px;
+
+}
+.Sub-Heading{
+    color:white;
+    font-size:35px;
+    text-shadow:4px 4px 5px black;
+    font-family:'Franklin Gothic Medium';
+    font-weight:bold;
+}
+.Content-container{
+    background-color:rgb(15, 177, 9);
+}
+
+.icon{
+    color:black;
+    font-size:45px;
+    transform:rotate(90deg);
+    width:50px;
+}
+.para{
+    font-size:15px;
+    font-family:'Franklin Gothic Medium';
+}
+span{
+    font-weight:bold;
+}
+.Footer{
+    font-family:'Franklin Gothic Medium';
+}
+.Sub-heading{
+   
+    
+    text-shadow:4px 4px 5px white;
+    font-family:'Franklin Gothic Medium';
+    font-weight:bold;
+}
+.Content{
+    align-items:flex-start;
+}
